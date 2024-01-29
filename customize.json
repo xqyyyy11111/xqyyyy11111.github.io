@@ -3,7 +3,7 @@
   "name": "茜茜",
   "greetingText": "我真的很喜欢你的名字哈哈哈！",
   "wishText": "May the web always be with you！ :)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/xixi.png",
   "text1": "今天是你的生日！！:D",
   "textInChatBox": "Happy birthday to you！！ 生日快乐！！很多很多快乐...",
   "sendButtonLabel": "发送",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐！！！",
-  "outroText": "好啦, 现在来让你告诉我，你喜不喜欢它.",
+  "outroText": "好啦, 这就是最后啦，怎么样，你喜不喜欢它.",
   "replayText": "或者你也可以点击一下，重新看一遍",
   "outroSmiley": ":)"
 }
